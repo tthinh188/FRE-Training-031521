@@ -1,3 +1,5 @@
+Zechen Feng
+
 # FRE-Training
 
 This is a repo to record the FRE-TRAINING assignments and notes.
@@ -5,6 +7,7 @@ This is a repo to record the FRE-TRAINING assignments and notes.
 ## How to record your FEE-TRAINING assignments by using this repo:
 
 ### Clone this repo:
+
 open your teminal
 
 ```bash
